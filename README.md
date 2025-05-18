@@ -1,4 +1,4 @@
-# 👋 Hi folks, I'm Vatsalkumar Makwana
+# Hi folks, I'm Vatsalkumar Makwana
 
 - **Dynamic Software Development Engineer** with experience in enterprise-grade full-stack development  
 - Passionate about building scalable, maintainable software solutions and contributing to the tech community
@@ -8,7 +8,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
 I'm a passionate technologist driven by the desire to solve real-world problems using code. My interests lie at the intersection of **software engineering and cloud infrastructure**.
 
@@ -16,15 +16,15 @@ Most of the repositories on this GitHub profile were created during my **undergr
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🗣️ VICE Questionnaire  
+### VICE Questionnaire  
 **Alexa, ASK-SDK, Java, Spring Boot, JSP, MySQL, AWS Lambda, SNS, RDS, ECR, Route53**  
 - Developed a **voice-assisted skill enhancement platform** using Amazon Alexa Skill Kit for interactive question-based learning  
 - Created a robust admin panel using **J2EE stack** to manage domains, questions, and performance metrics  
 - Leveraged **AWS Lambda + SNS + RDS** for scalable backend and real-time interaction processing  
 
-### 🏭 SAC Industries Web Platform  
+### SAC Industries Web Platform  
 **Java, Spring Boot, JSP, MySQL, AWS ECS, RDS, SNS, Route53**  
 - Developed and deployed a custom web application for **SAC Industries**, a manufacturer in the corrugated packaging domain  
 - Replaced traditional workflows with a **95% more efficient** process tracking and product lifecycle management system  
@@ -32,7 +32,7 @@ Most of the repositories on this GitHub profile were created during my **undergr
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 **Languages:**  
 Java, C, C++, TypeScript, JavaScript, SQL, HTML, XML, JSON, CSS  
@@ -64,7 +64,7 @@ API Development, Agile, Jira, Unit Testing, Code Reviews, Technical Documentatio
 
 ---
 
-📫 **Let’s connect:**  
+**Let’s connect:**  
 Feel free to check out my repositories, connect on [LinkedIn](https://www.linkedin.com/in/vatsalmakwana/), or reach me at `vatsal.makwana251@gmail.com`.
 
 
