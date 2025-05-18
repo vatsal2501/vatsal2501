@@ -2,7 +2,7 @@
 
 - **Dynamic Software Development Engineer** with experience in enterprise-grade full-stack development  
 - Passionate about building scalable, maintainable software solutions and contributing to the tech community
-- Results-oriented Software Development Engineer with **1+ year** of experience in **J2EE and full-stack development**
+- Results-oriented Software Development Engineer with **2+ year** of experience in **J2EE and full-stack development**
 - Designed and deployed high-performance enterprise-grade applications using **Spring, Spring Boot, Hibernate**, and front-end tech such as **Angular & TypeScript**
 - Strong communicator and effective team player in **agile** cross-functional teams
 
@@ -60,7 +60,7 @@ PostgreSQL, MySQL
 
 **Other Skills:**  
 API Development, Agile, Jira, Unit Testing, Code Reviews, Technical Documentation  
-**Research:** Published **2+ Research Papers** in academic conferences  
+**Research:** Published **2+ Research Papers** in academic conferences, which you can find here [OrcId](https://orcid.org/0009-0000-0645-639X)
 
 ---
 
