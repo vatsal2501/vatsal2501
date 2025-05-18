@@ -18,7 +18,7 @@ Most of the repositories on this GitHub profile were created during my **undergr
 
 ## Featured Projects
 
-### VICE Questionnaire  
+### VISE Questionnaire  
 **Alexa, ASK-SDK, Java, Spring Boot, JSP, MySQL, AWS Lambda, SNS, RDS, ECR, Route53**  
 - Developed a **voice-assisted skill enhancement platform** using Amazon Alexa Skill Kit for interactive question-based learning  
 - Created a robust admin panel using **J2EE stack** to manage domains, questions, and performance metrics  
