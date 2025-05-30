@@ -65,6 +65,6 @@ API Development, Agile, Jira, Unit Testing, Code Reviews, Technical Documentatio
 ---
 
 **Let’s connect:**  
-Feel free to check out my repositories, connect on [LinkedIn](https://www.linkedin.com/in/vatsalmakwana/), or reach me at `vatsal.makwana251@gmail.com`.
+Feel free to check out my repositories, connect on [LinkedIn](https://www.linkedin.com/in/vatsalmakwana/), or reach me at `vmakw096@uottawa.ca` or `vatsal.makwana251@gmail.com`.
 
 
