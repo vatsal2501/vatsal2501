@@ -1,70 +1,116 @@
 # Hi folks, I'm Vatsalkumar Makwana
 
-- **Dynamic Software Development Engineer** with experience in enterprise-grade full-stack development  
-- Passionate about building scalable, maintainable software solutions and contributing to the tech community
-- Results-oriented Software Development Engineer with **2+ year** of experience in **J2EE and full-stack development**
-- Designed and deployed high-performance enterprise-grade applications using **Spring, Spring Boot, Hibernate**, and front-end tech such as **Angular & TypeScript**
-- Strong communicator and effective team player in **agile** cross-functional teams
+* **Software Development Engineer transitioning into AI/Data Science**, with experience in enterprise-grade full-stack systems
+* Currently working on **LLM systems, dataset engineering, and evaluation frameworks**
+* Passionate about building scalable, reliable systems and exploring how **AI can be applied to real-world problems**
+* 2+ years of experience in **J2EE, backend systems, and cloud-based applications**
+* Strong collaborator who enjoys working in **agile, cross-functional teams**
 
 ---
 
 ## About Me
 
-I'm a passionate technologist driven by the desire to solve real-world problems using code. My interests lie at the intersection of **software engineering and cloud infrastructure**.
+I'm a curious builder who enjoys understanding systems end-to-end — from backend services to intelligent AI workflows.
 
-Most of the repositories on this GitHub profile were created during my **undergraduate internships and personal learning journey** — specifically while working on **J2EE-based projects**. These projects helped me gain practical skills, understand system-level challenges, and experiment with modern architecture patterns. However, at the present time I am accomplishing something else which is on my task list so it is possible that I am not active here but you can contact me through linkedin or Email provided here.
+I started my journey with **Java-based enterprise development**, where I worked on scalable backend systems, APIs, and cloud deployments. Over time, my interest shifted towards **data and AI systems**, especially around how we can make machines understand structured data better.
+
+Currently, I am working on problems related to:
+
+* **LLM-based systems (like Text-to-SQL)**
+* **Dataset generation and evaluation pipelines**
+* **Agentic AI systems and their performance improvement**
+
+Most of the repositories on this profile were created during my **undergraduate internships and learning phase**, mainly focused on J2EE systems. Recently, my work has been more towards **AI systems**, so I may not always be actively pushing code here — but I’m always open to discussion and collaboration.
+
+---
+
+## Current Work (AI / Data Science)
+
+I’m currently working as an intern within an **enterprise AI/analytics team**, where I focus on improving the performance and reliability of LLM-based systems.
+
+Some of the key things I am working on:
+
+* Designing **automated data pipelines** to generate and validate datasets for AI systems
+* Using **RAG (Retrieval-Augmented Generation)** and **context engineering** to create precise, schema-aware datasets
+* Analyzing how existing **AI agents perform (LangGraph / Langflow + MCP setup)** and identifying failure cases
+* Creating **multi-version datasets** to improve model performance based on observed weaknesses
+* Building **evaluation pipelines for NL2SQL systems**, including:
+
+  * Structural validation
+  * Execution-based comparison
+  * LLM-based semantic evaluation
+* Contributing to a broader **evaluation system for AI agents**, focusing on:
+
+  * correctness
+  * reliability
+  * latency
+  * human-in-the-loop validation
+
+This work has really helped me understand how **data quality + evaluation directly impact AI system performance**.
 
 ---
 
 ## Featured Projects
 
-### VISE Questionnaire  
-**Alexa, ASK-SDK, Java, Spring Boot, JSP, MySQL, AWS Lambda, SNS, RDS, ECR, Route53**  
-- Developed a **voice-assisted skill enhancement platform** using Amazon Alexa Skill Kit for interactive question-based learning  
-- Created a robust admin panel using **J2EE stack** to manage domains, questions, and performance metrics  
-- Leveraged **AWS Lambda + SNS + RDS** for scalable backend and real-time interaction processing  
+### VISE Questionnaire
 
-### SAC Industries Web Platform  
-**Java, Spring Boot, JSP, MySQL, AWS ECS, RDS, SNS, Route53**  
-- Developed and deployed a custom web application for **SAC Industries**, a manufacturer in the corrugated packaging domain  
-- Replaced traditional workflows with a **95% more efficient** process tracking and product lifecycle management system  
-- Reduced manual overhead through an integrated digital records solution across multiple industrial pipelines  
+**Alexa, ASK-SDK, Java, Spring Boot, JSP, MySQL, AWS Lambda, SNS, RDS, ECR, Route53**
+
+* Developed a **voice-assisted skill enhancement platform** using Amazon Alexa
+* Built a backend admin panel using **J2EE stack** to manage questions and domains
+* Used **AWS services** for scalable and real-time interaction
+
+---
+
+### SAC Industries Web Platform
+
+**Java, Spring Boot, JSP, MySQL, AWS ECS, RDS, SNS, Route53**
+
+* Developed a custom web application for **industrial workflow management**
+* Improved process efficiency significantly by digitizing manual systems
+* Built scalable backend and deployment pipelines using AWS
 
 ---
 
 ## Tech Stack & Skills
 
-**Languages:**  
-Java, C, C++, TypeScript, JavaScript, SQL, HTML, XML, JSON, CSS  
+**Languages:**
+Python, Java, Groovy, TypeScript, JavaScript, SQL, Cypher, C, C++
 
-**Technologies & Frameworks:**  
-OOP, J2SE–J2EE, Spring Boot, Hibernate, JPA, JSP, Alexa (ASK-SDK)  
+**AI / Data Science:**
+LLMs, Generative AI, Prompt Engineering, RAG, GraphRAG, Knowledge Graphs, Agentic AI (LangChain, LangGraph, LangFlow)
 
-**Web Services:**  
-RESTful, SOAP  
+**Data & ML Tools:**
+Pandas, scikit-learn, XGBoost, TensorFlow, Spark, MLflow, Kedro
 
-**Build Tools & DevOps:**  
-Maven, NPM, Git, Docker, Kubernetes, Jenkins, AWS, Terraform  
+**Frameworks & Engineering:**
+FastAPI, Airflow, FastMCP, Spring Boot (MVC, Data JPA, Security), Angular
 
-**Security & Auth:**  
-Spring Security, OAuth 2.0, SAML, JWT, Thycotic Secret Server  
+**Databases:**
+PostgreSQL, MySQL, Neo4j, Qdrant
 
-**Cloud & Hosting:**  
-AWS (ECS, EC2, ECR, Lambda, EBS, Route53)  
+**Cloud & DevOps:**
+AWS, Docker, Kubernetes, Terraform, Jenkins
 
-**Architecture & Patterns:**  
-Microservices, MVC, Dependency Injection, Factory, Singleton, Proxy, Adapter, Abstract Factory  
+**Systems:**
+Linux, Shell Scripting
 
-**Databases:**  
-PostgreSQL, MySQL  
-
-**Other Skills:**  
-API Development, Agile, Jira, Unit Testing, Code Reviews, Technical Documentation  
-**Research:** Published **2+ Research Papers** in academic conferences, which you can find here [OrcId](https://orcid.org/0009-0000-0645-639X)
+**Other:**
+REST APIs, OAuth2, SAML, CI/CD, Agile, System Design
 
 ---
 
-**Let’s connect:**  
-Feel free to check out my repositories, connect on [LinkedIn](https://www.linkedin.com/in/vatsalmakwana/), or reach me at `vmakw096@uottawa.ca` or `vatsal.makwana251@gmail.com`.
+## Research
 
+Published **2+ research papers** in academic conferences
+🔗 [ORCID Profile](https://orcid.org/0009-0000-0645-639X)
 
+---
+
+## Let’s Connect
+
+Feel free to check out my work or reach out:
+
+* [LinkedIn](https://www.linkedin.com/in/vatsalmakwana/)
+* [vmakw096@uottawa.ca](mailto:vmakw096@uottawa.ca)
+* [vatsal.makwana251@gmail.com](mailto:vatsal.makwana251@gmail.com)
